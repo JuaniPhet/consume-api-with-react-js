@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.Btn {
+  font-size: 1em;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: #282c34;
+  color: white;
+}
+
+.Btn:hover {
+  font-size: 1em;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: white;
+  color: #282c34;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  box-shadow: white 10px 10px;
+}
